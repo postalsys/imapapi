@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.50.7](https://github.com/postalsys/emailengine/compare/v2.50.6...v2.50.7) (2025-02-10)
+
+
+### Bug Fixes
+
+* **notificationBaseUrl:** Allow using a path component in the base URL ([d2af058](https://github.com/postalsys/emailengine/commit/d2af058cc987636481093466e4ffe7574782533b))
+
 ## [2.50.6](https://github.com/postalsys/emailengine/compare/v2.50.5...v2.50.6) (2025-02-10)
 
 
